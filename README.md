@@ -7,3 +7,4 @@
    Delete Bus
    Book Ticket
    Show Ticket
+   Delete Ticket
